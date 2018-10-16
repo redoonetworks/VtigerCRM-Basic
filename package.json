@@ -1,0 +1,29 @@
+{
+  "name": "flexsuite",
+  "version": "1.0.0",
+  "description": "FlexSuite",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@git.redoo-networks.com:2233/Redoo-Networks/FlexSuite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-sourcemaps": "^2.6.4"
+  },
+  "devDependencies": {
+    "gulp-concat-util": "^0.5.5",
+    "gulp-minify": "^3.1.0",
+    "gulp-uglify": "^3.0.1"
+  }
+}

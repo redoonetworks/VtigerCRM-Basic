@@ -1,0 +1,5 @@
+/node_modules
+/.idea
+/config_override.php
+/test/templates_c
+/setup/done/*.php

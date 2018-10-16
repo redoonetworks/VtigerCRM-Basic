@@ -1,0 +1,8 @@
+<?xml version="1.0"?><module>
+    <exporttime>2018-08-23 16:24:56</exporttime>
+    <name>FlexSuite</name>
+    <version>7.0101</version>
+    <dependencies>
+        <vtiger_version>7.*</vtiger_version>
+    </dependencies>
+</module>
